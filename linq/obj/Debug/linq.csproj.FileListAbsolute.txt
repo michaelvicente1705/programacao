@@ -1,0 +1,8 @@
+D:\Fatec\lab_engenharia\programacao_c\linq\bin\Debug\linq.exe.config
+D:\Fatec\lab_engenharia\programacao_c\linq\bin\Debug\linq.exe
+D:\Fatec\lab_engenharia\programacao_c\linq\bin\Debug\linq.pdb
+D:\Fatec\lab_engenharia\programacao_c\linq\obj\Debug\linq.csproj.AssemblyReference.cache
+D:\Fatec\lab_engenharia\programacao_c\linq\obj\Debug\linq.csproj.SuggestedBindingRedirects.cache
+D:\Fatec\lab_engenharia\programacao_c\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+D:\Fatec\lab_engenharia\programacao_c\linq\obj\Debug\linq.exe
+D:\Fatec\lab_engenharia\programacao_c\linq\obj\Debug\linq.pdb
