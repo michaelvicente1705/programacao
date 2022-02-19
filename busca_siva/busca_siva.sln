@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32203.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "busca_siva", "busca_siva.csproj", "{F5A678F1-0E5D-4CDE-A3E3-0AE89A6DEB9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A678F1-0E5D-4CDE-A3E3-0AE89A6DEB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A678F1-0E5D-4CDE-A3E3-0AE89A6DEB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A678F1-0E5D-4CDE-A3E3-0AE89A6DEB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A678F1-0E5D-4CDE-A3E3-0AE89A6DEB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53992504-555B-4166-B0CE-00B28D1B94D7}
+	EndGlobalSection
+EndGlobal

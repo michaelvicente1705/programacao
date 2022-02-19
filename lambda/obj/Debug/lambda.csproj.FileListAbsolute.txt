@@ -1,0 +1,8 @@
+D:\Fatec\lab_engenharia\programacao_c\lambda\bin\Debug\lambda.exe.config
+D:\Fatec\lab_engenharia\programacao_c\lambda\bin\Debug\lambda.exe
+D:\Fatec\lab_engenharia\programacao_c\lambda\bin\Debug\lambda.pdb
+D:\Fatec\lab_engenharia\programacao_c\lambda\obj\Debug\lambda.csproj.AssemblyReference.cache
+D:\Fatec\lab_engenharia\programacao_c\lambda\obj\Debug\lambda.csproj.SuggestedBindingRedirects.cache
+D:\Fatec\lab_engenharia\programacao_c\lambda\obj\Debug\lambda.csproj.CoreCompileInputs.cache
+D:\Fatec\lab_engenharia\programacao_c\lambda\obj\Debug\lambda.exe
+D:\Fatec\lab_engenharia\programacao_c\lambda\obj\Debug\lambda.pdb
