@@ -1,8 +1,0 @@
-D:\Fatec\lab_engenharia\programacao_c\treino_linq\bin\Debug\treino_linq.exe.config
-D:\Fatec\lab_engenharia\programacao_c\treino_linq\bin\Debug\treino_linq.exe
-D:\Fatec\lab_engenharia\programacao_c\treino_linq\bin\Debug\treino_linq.pdb
-D:\Fatec\lab_engenharia\programacao_c\treino_linq\obj\Debug\treino_linq.csproj.AssemblyReference.cache
-D:\Fatec\lab_engenharia\programacao_c\treino_linq\obj\Debug\treino_linq.csproj.SuggestedBindingRedirects.cache
-D:\Fatec\lab_engenharia\programacao_c\treino_linq\obj\Debug\treino_linq.csproj.CoreCompileInputs.cache
-D:\Fatec\lab_engenharia\programacao_c\treino_linq\obj\Debug\treino_linq.exe
-D:\Fatec\lab_engenharia\programacao_c\treino_linq\obj\Debug\treino_linq.pdb

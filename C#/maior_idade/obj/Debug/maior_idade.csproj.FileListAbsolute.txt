@@ -1,8 +1,0 @@
-D:\Fatec\lab_engenharia\programacao_c\maior_idade\bin\Debug\maior_idade.exe.config
-D:\Fatec\lab_engenharia\programacao_c\maior_idade\bin\Debug\maior_idade.exe
-D:\Fatec\lab_engenharia\programacao_c\maior_idade\bin\Debug\maior_idade.pdb
-D:\Fatec\lab_engenharia\programacao_c\maior_idade\obj\Debug\maior_idade.csproj.AssemblyReference.cache
-D:\Fatec\lab_engenharia\programacao_c\maior_idade\obj\Debug\maior_idade.csproj.SuggestedBindingRedirects.cache
-D:\Fatec\lab_engenharia\programacao_c\maior_idade\obj\Debug\maior_idade.csproj.CoreCompileInputs.cache
-D:\Fatec\lab_engenharia\programacao_c\maior_idade\obj\Debug\maior_idade.exe
-D:\Fatec\lab_engenharia\programacao_c\maior_idade\obj\Debug\maior_idade.pdb
